@@ -1,0 +1,49 @@
+# Introducción a Path of Champions
+
+**Path of Champions** es una emocionante modalidad de juego dentro del universo de **Legends of Runeterra**, el juego de cartas digital desarrollado por Riot Games. En este modo, los jugadores emprenden aventuras con sus campeones favoritos, enfrentándose a una serie de desafíos únicos, enemigos poderosos y obteniendo recompensas a medida que avanzan. Path of Champions combina la estrategia de los juegos de cartas con elementos de juegos de rol (RPG) y juegos de roguelike, ofreciendo una experiencia de juego rica y envolvente que se destaca por su narrativa profunda y su jugabilidad dinámica.
+
+## Concepto y Objetivo
+
+El objetivo principal en Path of Champions es guiar a tu campeón a través de una serie de misiones y encuentros, derrotando enemigos, capturando objetivos y completando desafíos para progresar en la historia. Cada campaña está diseñada en torno a la historia y características del campeón seleccionado, lo que permite a los jugadores experimentar el universo de Runeterra desde diferentes perspectivas y estilos de juego.
+
+Los jugadores deben construir y mejorar sus mazos a lo largo de su aventura, utilizando cartas y habilidades que se obtienen como recompensas por completar misiones y derrotar enemigos. A medida que avanzan, los jugadores tienen la oportunidad de tomar decisiones estratégicas que influirán en el curso de la campaña y en las recompensas que recibirán.
+
+## Campeones y Habilidades
+
+Uno de los aspectos más destacados de Path of Champions es la variedad de campeones disponibles. Cada campeón tiene habilidades únicas y un conjunto de cartas específico que refleja su estilo de juego y su lore en el universo de Runeterra. A medida que los jugadores completan misiones y enfrentan desafíos, pueden mejorar las habilidades de sus campeones y desbloquear nuevas cartas que se integran en su mazo.
+
+Cada campeón tiene una progresión de habilidades que los jugadores pueden mejorar a medida que avanzan en la campaña. Estas mejoras permiten adaptar el campeón a diferentes estilos de juego y estrategias, aumentando la rejugabilidad y la profundidad del juego.
+
+## Progresión y Recompensas
+
+La progresión en Path of Champions se basa en un sistema de niveles y recompensas que incentiva a los jugadores a completar misiones y desafíos. A medida que los campeones ganan experiencia y suben de nivel, los jugadores pueden desbloquear nuevas habilidades, mejorar las existentes y obtener mejoras para cartas para su mazo lo que vuelve el poder del campeón aún mayor.
+
+### Tipos de Recompensas
+
+- **Cartas Nuevas**: Los jugadores pueden obtener cartas nuevas que se añaden a su mazo, proporcionando nuevas opciones tácticas y estratégicas.
+- **Mejoras de Habilidades**: Los puntos de habilidad ganados al subir de nivel se pueden utilizar para mejorar las habilidades de los campeones, aumentando su efectividad y añadiendo nuevos efectos.
+- **Monedas y Recursos**: Utilizados para comprar mejoras y cartas adicionales, las monedas y otros recursos se ganan al completar misiones y derrotar enemigos.
+- **Objetos Especiales**: Algunos encuentros y misiones otorgan objetos especiales que proporcionan bonificaciones únicas y ventajas estratégicas en el juego.
+
+## Misiones y Objetivos
+
+Las misiones en Path of Champions son variadas y desafiantes, diseñadas para mantener a los jugadores comprometidos y entretenidos a lo largo de su aventura. Las misiones principales avanzan la narrativa del campeón y están complementadas por objetivos secundarios y desafíos opcionales que ofrecen recompensas adicionales.
+
+### Ejemplos de Misiones y Objetivos
+
+- **Encuentros de Combate**: Batallas contra hordas de enemigos que requieren estrategia y planificación para ser superadas.
+- **Semanales**: Objetivos específicos en donde cambian las habilidades y hay modificadores para mantener las cosas más interesantes.
+- **Completar campañas con campeones de diferentes regiones**: Misiones que implican la exploración de regiones con campeones de diversos fondos para alentar al jugador a jugar de manera variada mientras obtiene recompenzas.
+
+## Estrategias y Tácticas
+
+La estrategia en Path of Champions es fundamental para el éxito. Los jugadores deben pensar cuidadosamente en la construcción de su mazo, la mejora de las habilidades de su campeón y la gestión de recursos. La coordinación y el entendimiento de cómo opera cada campeón es fundamental para poder sacar el mayor provecho a su mazo y a su manera de jugar.
+
+### Estrategias Clave
+
+- **Gestión de Recursos**: Administrar eficientemente las monedas y otros recursos para obtener mejoras y cartas en momentos críticos.
+- **Adaptación y Flexibilidad**: Ser capaz de adaptarse a diferentes situaciones y ajustar la estrategia según la composición y tácticas de la baraja enemiga.
+
+## Desafíos Mensuales
+
+Path of Champions también ofrece desafíos mensuales, donde los jugadores tienen que enfrentarse a desafíos cada vez más difíciles. La gestión de pesonajes ahora es muy importante, porque solo puedes usar a un campeón hasta 3 veces (pierdas o ganes) antes de bloquear su uso. Es necesario un grande arsenal de campeones de buen nivel para poder enfrentar el desafío mensual.
