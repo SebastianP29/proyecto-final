@@ -1,23 +1,18 @@
 {
-  "name": "starter-project-eleventy-github-pages",
+  "name": "proyecto-final",
   "version": "1.0.0",
-  "description": "Starter Project para crear SSGs con 11ty y desplegarlos en GitHub Pages",
   "main": ".eleventy.js",
   "scripts": {
     "install": "npm install @11ty/eleventy --save-dev",
     "start": "npx @11ty/eleventy --serve --port=7777",
     "clean": "rm -rf docs",
-    "deploy": "npx @11ty/eleventy --pathprefix=/",
-    "deploy-subdomain": "npx @11ty/eleventy --pathprefix=/subdirectory/"
+    "deploy": "",
+    "deploy-subdomain": ""
   },
-  "keywords": [
-    "11ty",
-    "eleventy",
-    "github pages",
-    "jonmircha"
-  ],
-  "author": "Jonathan MirCha <jonmircha@gmail.com>",
+  "keywords": [],
+  "author": "Sebastián Padilla Pardo",
   "license": "MIT",
+  "description": "Proyecto final de la clase de Programación I del profesor Jon Mircha. Una pequeña wiki de contenido estático desplegada en Github pages acerca de Path of Champions, una modalidad de juego de Legends of Runeterra, un juego de cartas de Riot Games.",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
   }

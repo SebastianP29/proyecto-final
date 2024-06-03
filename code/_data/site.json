@@ -1,5 +1,5 @@
 {
-  "message": "Hola Mundo Eleventy 🦡🎈",
+  "message": "Hola Mundo Eleventy.",
   "linksDoc": [
     {
       "text": "Documentación de <i>11ty</i>",
@@ -15,7 +15,7 @@
     },
     {
       "text": "Curso de <i>11ty</i> de @jonmircha",
-      "url": "https://www.youtube.com/watch?v=yCF9l4_E5rI"
+      "url": "https://youtube.com/jonmircha/"
     }
   ]
 }
