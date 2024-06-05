@@ -15,5 +15,9 @@
   "description": "Proyecto final de la clase de Programación I del profesor Jon Mircha. Una pequeña wiki de contenido estático desplegada en Github pages acerca de Path of Champions, una modalidad de juego de Legends of Runeterra, un juego de cartas de Riot Games.",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
   }
 }
