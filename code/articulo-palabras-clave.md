@@ -8,6 +8,8 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
+<div class="clearfix">
+  <img src="/img/palabras-clave-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de palabras clave">
 # Palabras Clave en Legends of Runeterra: Efectos Positivos y Negativos
 
 En Legends of Runeterra, las palabras clave juegan un papel crucial en la mecánica del juego. Estas palabras clave otorgan habilidades y efectos especiales a las cartas, influenciando fuertemente el desarrollo de las partidas. Existen palabras clave positivas que benefician a las unidades y hechizos, y palabras clave negativas que pueden debilitar a las unidades. En este artículo, exploraremos todas las palabras clave positivas y negativas, detallando sus efectos y cómo impactan el juego.
@@ -113,3 +115,5 @@ Las palabras clave negativas debilitan a las unidades, haciéndolas más vulnera
 ## Importancia
 
 Las palabras clave en Legends of Runeterra son elementos esenciales que definen las capacidades y estrategias de las cartas. Las palabras clave positivas, como Ataque Rápido, Robo de Vida y Escudo de Hechizos, ofrecen ventajas significativas que pueden cambiar el curso de una partida. Por otro lado, las palabras clave negativas, como Vulnerable, Aturdido y Silenciado, pueden debilitar y neutralizar amenazas, permitiendo a los jugadores controlar el campo de batalla. Comprender y utilizar estas palabras clave de manera efectiva es fundamental para el éxito en Legends of Runeterra, permitiendo a los jugadores maximizar el potencial de sus decks y dominar a sus oponentes.
+
+</div>

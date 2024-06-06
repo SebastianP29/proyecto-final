@@ -8,6 +8,8 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
+<div class="clearfix">
+  <img src="/img/aventuras-1.jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de aventuras.">
 Path of Champions en Legends of Runeterra ofrece una variedad de aventuras emocionantes que permiten a los jugadores sumergirse en el rico universo de Runeterra. Cada aventura presenta una serie de desafíos, enemigos y recompensas únicas, proporcionando una experiencia de juego dinámica y envolvente. En este artículo, exploraremos las diversas aventuras disponibles, cómo funcionan los nodos y los elementos que los jugadores pueden encontrar a lo largo de su viaje, así como detalles sobre los jefes, las vidas, el dinero y los rerolls.
 
 ## Aventuras Disponibles
@@ -97,3 +99,5 @@ Los rerolls son oportunidades para cambiar las opciones disponibles en ciertos n
 - **Eventos**: Reintentar decisiones en eventos aleatorios para obtener resultados más favorables.
 
 Las aventuras en Path of Champions ofrecen una experiencia de juego rica y variada, llena de desafíos, estrategias y recompensas. Desde la variedad de aventuras disponibles, cada una con su propia narrativa y enemigos, hasta el complejo sistema de nodos y elementos que los jugadores pueden encontrar, Path of Champions garantiza una experiencia de juego dinámica y envolvente. Gestionar vidas, dinero y rerolls de manera efectiva es crucial para progresar y superar los jefes intermedios y finales. Con cada aventura, los jugadores tienen la oportunidad de explorar el universo de Runeterra de nuevas maneras, mejorando sus habilidades y estrategias a medida que avanzan.
+
+</div>

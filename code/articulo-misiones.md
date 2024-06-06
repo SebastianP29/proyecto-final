@@ -8,6 +8,8 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
+<div class="clearfix">
+  <img src="/img/misiones-1.jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de misiones.">
 Las misiones en Path of Champions, el modo de juego de Legends of Runeterra, son una parte integral de la experiencia del jugador. Ofrecen objetivos específicos que proporcionan recompensas valiosas, incentivando a los jugadores a participar en una variedad de actividades y modos de juego. Desde misiones diarias y semanales hasta misiones de eventos especiales, cada una presenta desafíos únicos y recompensas que son esenciales para la progresión y mejora de los campeones. En este artículo, exploraremos en detalle las diferentes misiones disponibles, las recompensas que otorgan y por qué es beneficioso completarlas.
 
 ## Misiones Diarias
@@ -106,5 +108,4 @@ Las recompensas obtenidas a través de las misiones son esenciales para la progr
 
 Completar misiones proporciona un sentido de logro y progreso constante. Cada misión completada es un paso más hacia la mejora del jugador y la dominación del juego. Este sentido de logro es una parte importante de la motivación y la satisfacción del jugador.
 
----
-Las misiones en Path of Champions son una parte vital del juego, ofreciendo objetivos específicos y recompensas valiosas que incentivan a los jugadores a participar en una variedad de actividades. Desde misiones diarias rápidas y fáciles hasta desafiantes misiones semanales y eventos especiales, cada misión ofrece una oportunidad para progresar, mejorar y disfrutar del juego de una manera diversa y gratificante. Completar estas misiones no solo ayuda a los jugadores a avanzar en el juego, sino que también proporciona un sentido de logro y satisfacción que enriquece la experiencia general de Path of Champions.
+</div>

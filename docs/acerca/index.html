@@ -8,13 +8,14 @@
   <link rel="icon" href="/proyecto-final/img/favicon.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   <link href="/proyecto-final/css/styles.css" rel="stylesheet">
+  <link href="/proyecto-final/_pagefind/pagefind-ui.css" rel="stylesheet">
 </head>
 <body>
   <header>
   <nav class="navbar navbar-expand-lg menu" data-bs-theme="dark">
     <div class="container-fluid">
       <a class="navbar-brand" href="/proyecto-final/">
-                  <img src="/proyecto-final/img/poc-logo.PNG" alt="Logo de Path of Champions" width="auto" height="72">
+        <img src="/proyecto-final/img/poc-logo.PNG" alt="Logo de Path of Champions" width="auto" height="72">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -31,14 +32,25 @@
             <a class="nav-link" href="/proyecto-final/articulos">Artículos</a>
           </li>
         </ul>
-        <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search">
-          <button class="btn btn-outline-warning button-color" type="submit">Buscar</button>
-        </form>
+
       </div>
     </div>
   </nav>
 </header>
+  <br>
+              <style>
+              @media (prefers-color-scheme: dark) {
+                :root {
+                  --pagefind-ui-primary: #eeeeee;
+                  --pagefind-ui-text: #eeeeee;
+                  --pagefind-ui-background: #152028;
+                  --pagefind-ui-border: #152028;
+                  --pagefind-ui-tag: #152028;
+                }
+              }
+            </style>
+            <div id="search" class="search"></div>
+            <script src="/proyecto-final/_pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: false });"></script>
   <main>
     
 <h1>Acerca del Proyecto</h1>
@@ -53,27 +65,66 @@
     <br>
     Los artículos que se encuentran en la página son los siguientes:
     <ol>
-      <li><a href="/proyecto-final/articulo-actualizaciones">Actualizaciones</a></li>
-      <li><a href="/proyecto-final/articulo-aventuras">Aventuras</a></li>
-      <li><a href="/proyecto-final/articulo-divisas">Divisas</a></li>
-      <li><a href="/proyecto-final/articulo-encuentros">Encuentros</a></li>
-      <li><a href="/proyecto-final/articulo-misiones">Misiones</a></li>
-      <li><a href="/proyecto-final/articulo-nivel-leyenda">Nivel de Leyenda</a></li>
-      <li><a href="/proyecto-final/articulo-palabras-clave">Palabras Clave</a></li>
-      <li><a href="/proyecto-final/articulo-poderes">Poderes</a></li>
-      <li><a href="/proyecto-final/articulo-recompensas">Recompensas</a></li>
-      <li><a href="/proyecto-final/articulo-reliquias">Reliquias</a></li>
-      <li><a href="/proyecto-final/articulo-semanales-mensuales">Aventuras Semanales y Mensuales</a></li>
-      <li><a href="/proyecto-final/articulo-campeones">Campeones:</a>
+      <li>
+        <a href="/proyecto-final/articulo-actualizaciones">Actualizaciones</a>
+      </li>
+      <li>
+        <a href="/proyecto-final/articulo-aventuras">Aventuras</a>
+      </li>
+      <li>
+        <a href="/proyecto-final/articulo-divisas">Divisas</a>
+      </li>
+      <li>
+        <a href="/proyecto-final/articulo-encuentros">Encuentros</a>
+      </li>
+      <li>
+        <a href="/proyecto-final/articulo-misiones">Misiones</a>
+      </li>
+      <li>
+        <a href="/proyecto-final/articulo-nivel-leyenda">Nivel de Leyenda</a>
+      </li>
+      <li>
+        <a href="/proyecto-final/articulo-palabras-clave">Palabras Clave</a>
+      </li>
+      <li>
+        <a href="/proyecto-final/articulo-poderes">Poderes</a>
+      </li>
+      <li>
+        <a href="/proyecto-final/articulo-recompensas">Recompensas</a>
+      </li>
+      <li>
+        <a href="/proyecto-final/articulo-reliquias">Reliquias</a>
+      </li>
+      <li>
+        <a href="/proyecto-final/articulo-semanales-mensuales">Aventuras Semanales y Mensuales</a>
+      </li>
+      <li>
+        <a href="/proyecto-final/articulo-campeones">Campeones:</a>
         <ol style="list">
-          <li><a href="/proyecto-final/articulo-z-annie">Annie</a></li>
-          <li><a href="/proyecto-final/articulo-z-aurelion-sol">Aurelion Sol</a></li>
-          <li><a href="/proyecto-final/articulo-z-diana">Diana</a></li>
-          <li><a href="/proyecto-final/articulo-z-jhin">Jhin</a></li>
-          <li><a href="/proyecto-final/articulo-z-jinx">Jinx</a></li>
-          <li><a href="/proyecto-final/articulo-z-leblanc">LeBlanc</a></li>
-          <li><a href="/proyecto-final/articulo-z-volibear">Volibear</a></li>
-          <li><a href="/proyecto-final/articulo-z-yasuo">Yasuo</a></li>
+          <li>
+            <a href="/proyecto-final/articulo-z-annie">Annie</a>
+          </li>
+          <li>
+            <a href="/proyecto-final/articulo-z-aurelion-sol">Aurelion Sol</a>
+          </li>
+          <li>
+            <a href="/proyecto-final/articulo-z-diana">Diana</a>
+          </li>
+          <li>
+            <a href="/proyecto-final/articulo-z-jhin">Jhin</a>
+          </li>
+          <li>
+            <a href="/proyecto-final/articulo-z-jinx">Jinx</a>
+          </li>
+          <li>
+            <a href="/proyecto-final/articulo-z-leblanc">LeBlanc</a>
+          </li>
+          <li>
+            <a href="/proyecto-final/articulo-z-volibear">Volibear</a>
+          </li>
+          <li>
+            <a href="/proyecto-final/articulo-z-yasuo">Yasuo</a>
+          </li>
         </ol>
       </li>
     </ol>
@@ -87,24 +138,31 @@
   </p>
   <ul>
     
-    <li>
-      <a href="https://www.11ty.dev/docs/" target="_blank">Documentación de <i>11ty</i></a>
-    </li>
+      <li>
+        <a href="https://www.11ty.dev/docs/" target="_blank">Documentación de <i>11ty</i></a>
+      </li>
     
-    <li>
-      <a href="https://getbootstrap.com/" target="_blank">Documentación de de <i>Bootstrap</i></a>
-    </li>
+      <li>
+        <a href="https://getbootstrap.com/" target="_blank">Documentación de de <i>Bootstrap</i></a>
+      </li>
     
-    <li>
-      <a href="https://mozilla.github.io/nunjucks/" target="_blank">Documentación de <i>NunJucks</i></a>
-    </li>
+      <li>
+        <a href="https://mozilla.github.io/nunjucks/" target="_blank">Documentación de <i>NunJucks</i></a>
+      </li>
     
-    <li>
-      <a href="https://www.youtube.com/watch?v=yCF9l4_E5rI" target="_blank">Curso de <i>11ty</i> de @jonmircha</a>
-    </li>
+      <li>
+        <a href="https://www.youtube.com/watch?v=yCF9l4_E5rI" target="_blank">Curso de <i>11ty</i> de @jonmircha</a>
+      </li>
     
   </ul>
-
+  <p>
+  La página utilizada para la creación del buscador:
+  </p><ul>
+      <li>
+        <a href="https://rknight.me/blog/using-pagefind-with-eleventy-for-search/" target="_blank">PageFind, guía por Robb Knight</a>
+      </li>
+    </ul>
+  <p></p>
   <img src="/proyecto-final/img/poc-1.webp" class="img-fluid w-100" alt="Póster promocional de Path of Champions">
 </h3>
   </main>

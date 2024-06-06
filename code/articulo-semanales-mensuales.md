@@ -8,7 +8,8 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
-
+<div class="clearfix">
+  <img src="/img/semanales-mensuales-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de aventuras semanales y mensuales">
 Path of Champions, el modo de juego de Legends of Runeterra, ofrece una experiencia dinámica y emocionante para los jugadores que buscan aventuras y desafíos continuos. Entre las características más destacadas se encuentran las Aventuras Semanales y el Reto Mensual de Aurelion Sol. Estas aventuras no solo añaden variedad al juego, sino que también ofrecen recompensas exclusivas y un desafío adicional para los jugadores más dedicados. En este artículo, exploraremos en detalle cómo funcionan las Aventuras Semanales, en qué se diferencian de las aventuras normales, y la naturaleza del Reto Mensual de Aurelion Sol.
 
 ## Aventuras Semanales
@@ -73,6 +74,4 @@ El Reto Mensual de Aurelion Sol es uno de los desafíos más difíciles en Path 
 - **Gestión de Recursos**: Usa tus recursos sabiamente, ya que las oportunidades para obtener más durante el reto pueden ser limitadas.
 - **Aprender de los Intentos**: Cada intento es una oportunidad para aprender. Si no tienes éxito, analiza qué salió mal y ajusta tu estrategia para el siguiente intento.
 
----
-
-Las Aventuras Semanales y el Reto Mensual de Aurelion Sol en Path of Champions añaden una capa significativa de desafío y recompensa al juego. Las Aventuras Semanales ofrecen variedad y mejores recompensas en comparación con las aventuras normales, mientras que el Reto Mensual de Aurelion Sol proporciona uno de los desafíos más difíciles y gratificantes del juego. Participar en estos desafíos no solo ayuda a los jugadores a mejorar sus habilidades, sino que también les permite obtener algunas de las mejores recompensas disponibles, haciendo que el esfuerzo y la dedicación valgan la pena.
+</div>

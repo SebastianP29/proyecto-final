@@ -8,6 +8,8 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
+<div class="clearfix">
+  <img src="/img/annie-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de Annie">
 Annie, la Niña Oscura, es una campeona con un poder inmenso y una personalidad explosiva en el universo de Legends of Runeterra. En el modo Path of Champions, Annie trae su dominio del fuego y su temible oso, Tibbers, al campo de batalla. Este artículo explorará cómo desbloquear a Annie, sus constelaciones, su baraja, sus mejoras de nivel y estrategias efectivas para utilizarla en el juego.
 
 ## Cómo Desbloquear a Annie
@@ -105,3 +107,5 @@ Annie se destaca en estrategias de control del tablero mediante el uso de hechiz
 1. **Eliminación Precisa**: Utilizar hechizos y habilidades que infligen daño directo a unidades específicas para eliminar amenazas clave.
 2. **Control del Campo de Batalla**: Mantener el control del tablero mediante la eliminación de unidades enemigas y la invocación de unidades poderosas.
 3. **Presión Constante**: Mantener un flujo constante de unidades y hechizos para agotar los recursos del oponente y asegurar la victoria.
+
+</div>

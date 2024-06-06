@@ -8,6 +8,8 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
+<div class="clearfix">
+  <img src="/img/recompensas-1.jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de recompensas.">
 Las recompensas en Path of Champions, el modo de juego de Legends of Runeterra, son una parte esencial de la progresión y motivación del jugador. Desde cofres que contienen una variedad de objetos valiosos hasta misiones diarias y semanales que otorgan experiencia y reliquias, las recompensas juegan un papel crucial en la mejora y personalización de los campeones. En este artículo, exploraremos en detalle las diferentes recompensas disponibles, cómo obtenerlas y su importancia en el juego.
 
 ## Cofres y su Contenido
@@ -116,6 +118,4 @@ Como se mencionó anteriormente, los cofres pueden contener una variedad de reco
 
 Los relicarios son contenedores especiales que otorgan reliquias específicas. Estos pueden ser obtenidos a través de misiones semanales, aventuras y eventos especiales.
 
----
-
-Las recompensas en Path of Champions son una parte fundamental del juego, incentivando a los jugadores a participar en diversas actividades y desafíos. Desde los cofres que contienen valiosos recursos hasta las misiones diarias y semanales que ofrecen experiencia y reliquias, cada recompensa contribuye a la progresión y mejora de los campeones. El reto mensual de Aurelion Sol proporciona un desafío adicional para los jugadores más dedicados, con recompensas significativas para aquellos que lo completan. Comprender y maximizar el uso de estas recompensas es clave para el éxito en Path of Champions, ofreciendo una experiencia de juego rica y gratificante.
+</div>

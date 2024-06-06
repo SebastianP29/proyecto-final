@@ -8,6 +8,8 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
+<div class="clearfix">
+  <img src="/img/jhin-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de Jhin">
 Jhin, el Virtuoso, es un campeón singular en el universo de Legends of Runeterra. Con su obsesión por la perfección y el arte del asesinato, Jhin ofrece una experiencia de juego única en el modo Path of Champions. Este artículo explorará cómo desbloquear a Jhin, sus constelaciones, su baraja, sus mejoras de nivel y estrategias efectivas para utilizarlo en el juego.
 
 ## Cómo Desbloquear a Jhin
@@ -106,5 +108,4 @@ Jhin se destaca en estrategias de control del tablero mediante el uso de hechizo
 2. **Control del Campo de Batalla**: Mantener el control del tablero mediante la eliminación de unidades enemigas y la invocación de unidades poderosas.
 3. **Presión Constante**: Mantener un flujo constante de unidades y hechizos para agotar los recursos del oponente y asegurar la victoria.
 
----
-Jhin en Path of Champions ofrece una experiencia de juego precisa y letal, con habilidades que maximizan su capacidad de infligir daño y mantener la presión sobre el oponente. Desbloquear y dominar a Jhin requiere estrategia y comprensión de sus habilidades, pero la recompensa es un campeón que puede dominar el campo de batalla con su precisión y maestría. Con sus constelaciones, baraja y mejoras de nivel, Jhin es una adición valiosa y emocionante para cualquier jugador de Legends of Runeterra.
+</div>

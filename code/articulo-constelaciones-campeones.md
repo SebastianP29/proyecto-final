@@ -8,6 +8,8 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
+<div class="clearfix">
+  <img src="/img/champions-1.jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de campeones y constelaciones.">
 Path of Champions en Legends of Runeterra ha evolucionado significativamente con sus actualizaciones, introduciendo nuevos sistemas y mecánicas que enriquecen la experiencia de juego. En este artículo, exploraremos las constelaciones (anteriormente conocidas como poderes estelares), el sistema de niveles de campeón, la configuración del mazo inicial, y el sistema de reliquias, proporcionando una visión completa de cómo estos elementos se integran en el juego.
 
 ## Constelaciones
@@ -91,3 +93,5 @@ La gestión de reliquias es una parte crucial de la estrategia en Path of Champi
 ### Mejora de Reliquias
 
 Además de desbloquear y equipar reliquias, los jugadores pueden mejorar las reliquias existentes utilizando recursos obtenidos durante la aventura. Mejorar una reliquia puede aumentar su efectividad y añadir nuevos efectos, ofreciendo aún más opciones estratégicas para el jugador.
+
+</div>

@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Actualizaciones</title>
-  <meta name="description" content="Todo acerca de las actualizaciones, el nuevo contenido y la frencuencia de éstas.">
-  <link rel="icon" href="/proyecto-final/img/favicon.png">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-  <link href="/proyecto-final/css/styles.css" rel="stylesheet">
-</head>
-<body>
-  <header>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Actualizaciones</title>
+    <meta name="description" content="Todo acerca de las actualizaciones, el nuevo contenido y la frencuencia de éstas.">
+    <link rel="icon" href="/proyecto-final/img/favicon.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="/proyecto-final/css/styles.css" rel="stylesheet">
+    <link href="/proyecto-final/_pagefind/pagefind-ui.css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
   <nav class="navbar navbar-expand-lg menu" data-bs-theme="dark">
     <div class="container-fluid">
       <a class="navbar-brand" href="/proyecto-final/">
-                  <img src="/proyecto-final/img/poc-logo.PNG" alt="Logo de Path of Champions" width="auto" height="72">
+        <img src="/proyecto-final/img/poc-logo.PNG" alt="Logo de Path of Champions" width="auto" height="72">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -31,18 +32,32 @@
             <a class="nav-link" href="/proyecto-final/articulos">Artículos</a>
           </li>
         </ul>
-        <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search">
-          <button class="btn btn-outline-warning button-color" type="submit">Buscar</button>
-        </form>
+
       </div>
     </div>
   </nav>
 </header>
-  <main>
-    <article class="text-left">
-    <h1><p style="text-align: center;"><strong>Actualizaciones</strong></p></h1>
+    <br>
+    <style>
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --pagefind-ui-primary: #eeeeee;
+          --pagefind-ui-text: #eeeeee;
+          --pagefind-ui-background: #152028;
+          --pagefind-ui-border: #152028;
+          --pagefind-ui-tag: #152028;
+        }
+      }
+    </style>
+    <div id="search" class="search"></div>
+    <script src="/proyecto-final/_pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: false });"></script>
+    <br>
+    <main>
+      <article data-pagefind-body="" class="text-left">
+        <h1><p style="text-align: center;"><strong>Actualizaciones</strong></p></h1>
 <br>
+<div class="clearfix">
+  <img src="/proyecto-final/img/actualizaciones-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de actualizaciones.">
 <h1>Nuevo Contenido de Path of Champions en Legends of Runeterra</h1>
 <p>Legends of Runeterra (LoR), el popular juego de cartas de Riot Games, ha capturado la atención de los jugadores con su rica narrativa y mecánicas innovadoras. Entre sus modos de juego, <strong>Path of Champions</strong> destaca por ofrecer una experiencia única de exploración y combate PvE (jugador contra entorno). Este modo se ha convertido en un favorito entre los jugadores, y Riot Games se ha comprometido a mantenerlo fresco y emocionante a través de actualizaciones periódicas y nuevo contenido.</p>
 <h2>Frecuencia de Actualizaciones</h2>
@@ -66,10 +81,10 @@
 <p>Las actualizaciones regulares y el nuevo contenido han tenido un impacto positivo en la comunidad de Legends of Runeterra. Los jugadores valoran el esfuerzo continuo de Riot Games para mantener el juego fresco y emocionante. Las nuevas aventuras y sistemas, como las constelaciones, han revitalizado el interés en Path of Champions, atrayendo tanto a jugadores veteranos como a nuevos.</p>
 <p>Los foros y redes sociales de la comunidad están llenos de discusiones sobre las mejores estrategias para enfrentar las nuevas aventuras y cómo optimizar las constelaciones para maximizar el rendimiento. Esta participación activa de la comunidad demuestra el éxito de las actualizaciones y la importancia de mantener el contenido nuevo y relevante.</p>
 <p>Path of Champions en Legends of Runeterra sigue evolucionando gracias a las frecuentes actualizaciones y el nuevo contenido introducido por Riot Games. Las constelaciones y la Aventura de Lissandra son solo algunos ejemplos de cómo el juego se mantiene fresco y desafiante. Con cada actualización, los jugadores tienen nuevas razones para regresar y explorar las profundidades de este fascinante modo de juego. Riot Games ha mostrado un compromiso admirable con su comunidad, asegurando que Path of Champions permanezca como una experiencia dinámica y enriquecedora en el mundo de Runeterra.</p>
-
-    </article>
-  </main>
-  <br>
+</div>
+      </article>
+    </main>
+    <br>
 <a href="/proyecto-final/"><strong>🃏Ir a la página de Inicio 🃏</strong></a>
 <br>
 <a href="/proyecto-final/articulos/"><strong>🃏Ir a la página de Artículos🃏</strong></a>
@@ -92,7 +107,7 @@
         <a href="https://www.11ty.dev" target="”_blank”"><b><i>11ty</i></b></a> y 
         <a href="https://getbootstrap.com/" target="”_blank”"><b><i>Bootstrap</i></b></a>.🃏</small>
 </section></footer>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-  <script src="/proyecto-final/js/main.js"></script>
-</body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="/proyecto-final/js/main.js"></script>
+  </body>
 </html>

@@ -8,7 +8,8 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
-
+<div class="clearfix">
+  <img src="/img/poderes-1.jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de poderes.">
 Path of Champions en Legends of Runeterra ofrece a los jugadores una experiencia PvE rica y variada, en la que pueden desbloquear y utilizar diferentes poderes a lo largo de sus aventuras. Estos poderes son cruciales para enfrentarse a los retos y enemigos del juego, y pueden provenir tanto de las aventuras regulares como de los modificadores de los retos mensuales. En este artículo, exploraremos los distintos tipos de poderes disponibles y proporcionaremos ejemplos específicos de los poderes asociados a campeones populares como Jinx, Aurelion Sol, Diana, Jhin, LeBlanc, Volibear y Yasuo.
 
 ## Poderes en las Aventuras
@@ -82,6 +83,5 @@ Cada campeón en Path of Champions tiene poderes únicos que reflejan su identid
 ### 7. Yasuo
 
 - **Vientos Cortantes**: Yasuo puede aturdir a las unidades enemigas con sus ataques y habilidades, controlando el flujo del combate y manteniendo a sus enemigos a raya.
----
-Los poderes en Path of Champions de Legends of Runeterra son fundamentales para la experiencia de juego, proporcionando una amplia gama de habilidades y mejoras que los jugadores pueden utilizar para superar los desafíos. Ya sea a través de las aventuras regulares o los modificadores de los retos mensuales, estos poderes permiten a los jugadores personalizar su estilo de juego y enfrentar a sus enemigos con estrategias únicas. Con campeones como Jinx, Aurelion Sol, Diana, Jhin, LeBlanc, Volibear y Yasuo, cada aventura se convierte en una oportunidad para explorar nuevas tácticas y dominar el campo de batalla en el vibrante mundo de Runeterra.
 
+</div>

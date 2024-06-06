@@ -8,6 +8,8 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
+<div class="clearfix">
+  <img src="/img/yasuo-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de Yasuo">
 Yasuo es un campeón icónico en el universo de Runeterra, conocido por su estilo de juego ágil y devastador. En el modo Path of Champions de Legends of Runeterra, Yasuo se destaca como un campeón versátil y poderoso, capaz de controlar el campo de batalla con sus habilidades de desplazamiento y control. Este artículo explorará las constelaciones de Yasuo, su baraja inicial, las mejoras de nivel disponibles y las estrategias óptimas para maximizar su potencial.
 
 ## Constelaciones de Yasuo
@@ -82,3 +84,5 @@ Aprovecha las sinergias entre las cartas de tu baraja. Utiliza hechizos y unidad
 Cada partida en Path of Champions puede ser diferente, y es importante adaptarse a las circunstancias cambiantes. Ajusta tu estrategia según los desafíos específicos que enfrentes y las cartas que tengas disponibles.
 
 Yasuo en Path of Champions de Legends of Runeterra es un campeón formidable con una mezcla única de control y daño. Aprovechar sus constelaciones, baraja inicial y mejoras de nivel de manera efectiva puede llevar a una victoria segura. Con una estrategia bien ejecutada, Yasuo puede dominar el campo de batalla, aturdiendo y eliminando a sus enemigos con estilo y precisión.
+
+</div>

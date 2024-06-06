@@ -9,7 +9,8 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
-
+<div class="clearfix">
+  <img src="/img/actualizaciones-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de actualizaciones.">
 
 # Nuevo Contenido de Path of Champions en Legends of Runeterra
 
@@ -56,3 +57,5 @@ Las actualizaciones regulares y el nuevo contenido han tenido un impacto positiv
 Los foros y redes sociales de la comunidad están llenos de discusiones sobre las mejores estrategias para enfrentar las nuevas aventuras y cómo optimizar las constelaciones para maximizar el rendimiento. Esta participación activa de la comunidad demuestra el éxito de las actualizaciones y la importancia de mantener el contenido nuevo y relevante.
 
 Path of Champions en Legends of Runeterra sigue evolucionando gracias a las frecuentes actualizaciones y el nuevo contenido introducido por Riot Games. Las constelaciones y la Aventura de Lissandra son solo algunos ejemplos de cómo el juego se mantiene fresco y desafiante. Con cada actualización, los jugadores tienen nuevas razones para regresar y explorar las profundidades de este fascinante modo de juego. Riot Games ha mostrado un compromiso admirable con su comunidad, asegurando que Path of Champions permanezca como una experiencia dinámica y enriquecedora en el mundo de Runeterra.
+
+</div>

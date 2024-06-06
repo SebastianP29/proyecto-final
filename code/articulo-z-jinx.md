@@ -8,6 +8,8 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
+<div class="clearfix">
+  <img src="/img/jinx-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de Jinx">
 Jinx, la Bala Perdida, es una campeona caótica y explosiva en el universo de Legends of Runeterra. En el modo Path of Champions, Jinx trae su estilo frenético y destructivo al juego, ofreciendo una experiencia de combate llena de emoción y dinamismo. Este artículo explorará cómo desbloquear a Jinx, sus constelaciones, su baraja, sus mejoras de nivel y estrategias efectivas para utilizarla en el juego.
 
 ## Cómo Desbloquear a Jinx
@@ -106,6 +108,4 @@ Jinx se destaca en estrategias agresivas y de control del tablero mediante el us
 2. **Daño en Área**: Utilizar hechizos de daño en área para limpiar el tablero de unidades enemigas y mantener el control del campo de batalla.
 3. **Presión Constante**: Mantener un flujo constante de unidades y hechizos para agotar los recursos del oponente y asegurar la victoria.
 
----
-
-Jinx en Path of Champions ofrece una experiencia de juego emocionante y caótica, con habilidades que maximizan su capacidad de infligir daño rápido y mantener la presión sobre el oponente. Desbloquear y dominar a Jinx requiere estrategia y comprensión de sus habilidades explosivas, pero la recompensa es una campeona que puede dominar el campo de batalla con su dinamismo y ferocidad. Con sus constelaciones, baraja y mejoras de nivel, Jinx es una adición valiosa y emocionante para cualquier jugador de Legends of Runeterra.
+</div>

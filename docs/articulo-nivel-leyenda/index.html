@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nivel de Leyenda</title>
-  <meta name="description" content="Todo acerca del nivel de leyenda, qué es, cómo progresarlo y por qué es importante.">
-  <link rel="icon" href="/proyecto-final/img/favicon.png">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-  <link href="/proyecto-final/css/styles.css" rel="stylesheet">
-</head>
-<body>
-  <header>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nivel de Leyenda</title>
+    <meta name="description" content="Todo acerca del nivel de leyenda, qué es, cómo progresarlo y por qué es importante.">
+    <link rel="icon" href="/proyecto-final/img/favicon.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="/proyecto-final/css/styles.css" rel="stylesheet">
+    <link href="/proyecto-final/_pagefind/pagefind-ui.css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
   <nav class="navbar navbar-expand-lg menu" data-bs-theme="dark">
     <div class="container-fluid">
       <a class="navbar-brand" href="/proyecto-final/">
-                  <img src="/proyecto-final/img/poc-logo.PNG" alt="Logo de Path of Champions" width="auto" height="72">
+        <img src="/proyecto-final/img/poc-logo.PNG" alt="Logo de Path of Champions" width="auto" height="72">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -31,18 +32,32 @@
             <a class="nav-link" href="/proyecto-final/articulos">Artículos</a>
           </li>
         </ul>
-        <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search">
-          <button class="btn btn-outline-warning button-color" type="submit">Buscar</button>
-        </form>
+
       </div>
     </div>
   </nav>
 </header>
-  <main>
-    <article class="text-left">
-    <h1><p style="text-align: center;"><strong>Nivel de Leyenda</strong></p></h1>
+    <br>
+    <style>
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --pagefind-ui-primary: #eeeeee;
+          --pagefind-ui-text: #eeeeee;
+          --pagefind-ui-background: #152028;
+          --pagefind-ui-border: #152028;
+          --pagefind-ui-tag: #152028;
+        }
+      }
+    </style>
+    <div id="search" class="search"></div>
+    <script src="/proyecto-final/_pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: false });"></script>
+    <br>
+    <main>
+      <article data-pagefind-body="" class="text-left">
+        <h1><p style="text-align: center;"><strong>Nivel de Leyenda</strong></p></h1>
 <br>
+<div class="clearfix">
+  <img src="/proyecto-final/img/nivel-leyenda-1.avif" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de nivel de leyenda.">
 El nivel de leyenda en Path of Champions es un sistema de progresión de cuenta que abarca todos los campeones y aventuras en Legends of Runeterra. Este sistema permite a los jugadores desbloquear contenido, obtener recompensas y mejorar su experiencia de juego a medida que avanzan. En este artículo, exploraremos qué es el nivel de leyenda, cómo se obtienen los puntos de leyenda y qué recompensas están disponibles a través de los 50 niveles del sistema.
 <h2>¿Qué es el Nivel de Leyenda?</h2>
 <p>El nivel de leyenda es una representación de la progresión general de un jugador en Path of Champions. A diferencia del nivel de campeón, que se centra en el progreso individual de cada campeón, el nivel de leyenda abarca todas las actividades y logros de un jugador en el juego. Este sistema de progresión es crucial para desbloquear contenido adicional y obtener recompensas exclusivas que mejoran la experiencia de juego.</p>
@@ -106,10 +121,10 @@ El nivel de leyenda en Path of Champions es un sistema de progresión de cuenta 
 </ul>
 <h3>Mejora de la Experiencia de Juego</h3>
 <p>El sistema de nivel de leyenda también mejora la experiencia de juego al proporcionar una sensación constante de progreso y logro. Los jugadores siempre tienen un objetivo a largo plazo por el cual esforzarse, y las recompensas obtenidas a través del sistema de nivel de leyenda pueden ser utilizadas para mejorar la efectividad y personalización de su juego.</p>
-
-    </article>
-  </main>
-  <br>
+</div>
+      </article>
+    </main>
+    <br>
 <a href="/proyecto-final/"><strong>🃏Ir a la página de Inicio 🃏</strong></a>
 <br>
 <a href="/proyecto-final/articulos/"><strong>🃏Ir a la página de Artículos🃏</strong></a>
@@ -132,7 +147,7 @@ El nivel de leyenda en Path of Champions es un sistema de progresión de cuenta 
         <a href="https://www.11ty.dev" target="”_blank”"><b><i>11ty</i></b></a> y 
         <a href="https://getbootstrap.com/" target="”_blank”"><b><i>Bootstrap</i></b></a>.🃏</small>
 </section></footer>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-  <script src="/proyecto-final/js/main.js"></script>
-</body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="/proyecto-final/js/main.js"></script>
+  </body>
 </html>

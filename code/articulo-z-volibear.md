@@ -8,6 +8,8 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
+<div class="clearfix">
+  <img src="/img/volibear-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de Volibear">
 Volibear, el Trueno Indomable, es un campeón feroz y poderoso en el universo de Legends of Runeterra. En el modo Path of Champions, Volibear trae su fuerza y furia elemental al campo de batalla, ofreciendo una experiencia de juego llena de poder y dominación. Este artículo explorará cómo desbloquear a Volibear, sus constelaciones, su baraja, sus mejoras de nivel y estrategias efectivas para utilizarlo en el juego.
 
 ## Cómo Desbloquear a Volibear
@@ -106,6 +108,4 @@ Volibear se destaca en estrategias de control del tablero mediante el uso de hec
 2. **Control del Campo de Batalla**: Mantener el control del tablero mediante la eliminación de unidades enemigas y la invocación de unidades poderosas.
 3. **Presión Constante**: Mantener un flujo constante de unidades y hechizos para agotar los recursos del oponente y asegurar la victoria.
 
----
-
-Volibear en Path of Champions ofrece una experiencia de juego poderosa y dominante, con habilidades que maximizan su capacidad de infligir daño y mantener la presión sobre el oponente. Desbloquear y dominar a Volibear requiere estrategia y comprensión de sus habilidades, pero la recompensa es un campeón que puede dominar el campo de batalla con su poder y furia. Con sus constelaciones, baraja y mejoras de nivel, Volibear es una adición valiosa y emocionante para cualquier jugador de Legends of Runeterra.
+</div>

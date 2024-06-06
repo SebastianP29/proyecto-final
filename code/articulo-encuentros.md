@@ -8,6 +8,9 @@ date: "2024-04-06"
 # <p style="text-align: center;">**{{title}}**</p>
 
 </br>
+<div class="clearfix">
+  <img src="/img/encuentros-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de encuentros.">
+
 # Sistema de Pelea en Path of Champions
 
 El sistema de pelea en Path of Champions, el modo de juego de Legends of Runeterra, es una experiencia dinámica y estratégica que combina elementos de combate en tiempo real con la gestión de recursos y habilidades de cartas. Desde el momento en que entras a la partida hasta el último movimiento que decide el resultado, cada decisión cuenta. En este artículo, exploraremos en detalle cómo funciona el sistema de pelea, incluyendo el proceso de inicio, la mecánica de juego, el uso de mana, los modificadores y las condiciones de victoria.
@@ -103,6 +106,4 @@ Si un jugador se queda sin cartas en su mazo, entra en estado de fatiga. Cada ve
 
 - **Planificación del Mazo**: Es crucial tener un mazo bien equilibrado para evitar llegar a la fatiga prematuramente.
 
----
-
-El sistema de pelea en Path of Champions es un complejo entramado de estrategia, gestión de recursos y toma de decisiones. Desde la preparación inicial y el barajado de cartas hasta el manejo del mana y los modificadores, cada aspecto del combate requiere atención y habilidad. Las peleas contra la inteligencia artificial no solo ofrecen un desafío constante, sino que también permiten a los jugadores experimentar con diferentes tácticas y combinaciones de cartas. Comprender y dominar estos elementos es esencial para tener éxito y disfrutar al máximo de lo que Path of Champions tiene para ofrecer.
+</div>
