@@ -15,13 +15,15 @@ date: "2024-04-06"
 
 El sistema de pelea en Path of Champions, el modo de juego de Legends of Runeterra, es una experiencia dinámica y estratégica que combina elementos de combate en tiempo real con la gestión de recursos y habilidades de cartas. Desde el momento en que entras a la partida hasta el último movimiento que decide el resultado, cada decisión cuenta. En este artículo, exploraremos en detalle cómo funciona el sistema de pelea, incluyendo el proceso de inicio, la mecánica de juego, el uso de mana, los modificadores y las condiciones de victoria.
 
+<br>
+
 ## Inicio de la Partida
 
 ### Preparativos
 
 Antes de que comience la pelea, hay varios preparativos que se realizan:
 
-- **Selección del Campeón**: Los jugadores eligen un campeón con el que desean jugar. Cada campeón tiene habilidades y poderes únicos que influirán en el desarrollo de la partida.
+- **Selección del Campeón**: Los jugadores eligen un <a href="/articulo-constelaciones-campeones">campeón</a> con el que desean jugar. Cada campeón tiene habilidades y <a href="/articulo-poderes">poderes</a> únicos que influirán en el desarrollo de la partida.
 - **Selección del Mazo**: Los jugadores utilizan un mazo de cartas específico. El mazo inicial puede ser personalizado y mejorado a lo largo del juego.
 
 ### Barajado de Cartas
@@ -29,6 +31,8 @@ Antes de que comience la pelea, hay varios preparativos que se realizan:
 Una vez seleccionado el campeón y el mazo, las cartas se barajean para asegurar un orden aleatorio. Este barajado es crucial, ya que determina la disponibilidad de cartas durante la partida.
 
 - **Mano Inicial**: Los jugadores reciben una mano inicial de cartas. Si no están satisfechos con su mano, pueden optar por un Mulligan, que permite devolver cualquier cantidad de cartas al mazo y robar nuevas cartas en su lugar.
+
+<br>
 
 ## Mecánica de Juego
 
@@ -53,11 +57,13 @@ El mana es el recurso principal que permite a los jugadores jugar cartas y utili
 - **Hechizos**: Cartas que tienen efectos inmediatos o persistentes y se juegan desde la mano.
 - **Hitos**: Estructuras que proporcionan beneficios pasivos o activan efectos especiales bajo ciertas condiciones.
 
+<br>
+
 ## Poderes y Habilidades
 
 ### Poderes de Campeón
 
-Cada campeón tiene poderes únicos que pueden influir en la partida de manera significativa. Estos poderes pueden ser activados bajo ciertas condiciones y pueden cambiar el curso del combate.
+Cada campeón tiene <a href="/articulo-poderes">poderes</a> únicos que pueden influir en la partida de manera significativa. Estos <a href="/articulo-poderes">poderes</a> pueden ser activados bajo ciertas condiciones y pueden cambiar el curso del combate.
 
 ### Habilidades de Cartas
 
@@ -66,6 +72,8 @@ Las cartas de unidades y hechizos pueden tener habilidades especiales que se act
 - **Desafío**: Permite seleccionar una unidad enemiga específica para enfrentarse.
 - **Ráfaga**: Hechizos que se resuelven instantáneamente, sin dar al oponente la oportunidad de responder.
 - **Golpear**: Unidades que infligen daño adicional al Nexus enemigo cuando atacan.
+
+<br>
 
 ## Modificadores y Efectos
 
@@ -80,6 +88,8 @@ Los modificadores son efectos que pueden alterar las estadísticas de las unidad
 
 Durante la partida, pueden ocurrir eventos aleatorios que impactan el juego. Estos eventos pueden ser activados por cartas específicas o por condiciones preestablecidas.
 
+<br>
+
 ## Progreso del Combate
 
 ### Gestión de Recursos
@@ -90,6 +100,8 @@ La gestión eficiente del mana y las cartas es clave para tener éxito en Path o
 
 - **Sinergias de Cartas**: Utilizar cartas que funcionen bien juntas para crear combinaciones poderosas.
 - **Control del Tablero**: Mantener el control del campo de batalla al eliminar las amenazas enemigas y fortalecer las propias unidades.
+
+<br>
 
 ## Condiciones de Victoria
 

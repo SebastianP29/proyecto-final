@@ -10,19 +10,24 @@ date: "2024-04-06"
 </br>
 <div class="clearfix">
   <img src="/img/aurelion-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de Aurelion Sol">
-Aurelion Sol, el Forjador de Estrellas, es uno de los campeones más poderosos y majestuosos en el universo de Legends of Runeterra. En el modo Path of Champions, Aurelion Sol ofrece una experiencia única con su habilidad para manipular el cosmos y dominar el campo de batalla. Este artículo explorará en detalle cómo desbloquear a Aurelion Sol, sus constelaciones, su baraja, sus mejoras de nivel y su impacto en el juego.
+
+Aurelion Sol, el Forjador de Estrellas, es uno de los <a href="/articulo-constelaciones-campeones">campeones</a> más poderosos y majestuosos en el universo de Legends of Runeterra. En el modo Path of Champions, Aurelion Sol ofrece una experiencia única con su habilidad para manipular el cosmos y dominar el campo de batalla. Este artículo explorará en detalle cómo desbloquear a Aurelion Sol, sus constelaciones, su baraja, sus mejoras de nivel y su impacto en el juego.
+
+<br>
 
 ## Cómo Desbloquear a Aurelion Sol
 
 Para desbloquear a Aurelion Sol en Path of Champions, los jugadores deben completar ciertos requisitos dentro del juego. Generalmente, estos requisitos incluyen:
 
-1. **Progreso en Aventuras**: Completar una serie de aventuras específicas que introducen y desarrollan la historia de Aurelion Sol.
-2. **Recolección de Fragmentos**: Obtener suficientes fragmentos de Aurelion Sol a través de cofres, recompensas de eventos y otros medios dentro del juego.
-3. **Nivel de Jugador**: Alcanzar un nivel de jugador determinado que permita acceder a campeones avanzados como Aurelion Sol.
+1. **Progreso en Aventuras**: Completar una serie de <a href="/articulo-aventuras">aventuras</a> específicas que introducen y desarrollan la historia de Aurelion Sol.
+2. **Recolección de Fragmentos**: Obtener suficientes fragmentos de Aurelion Sol a través de cofres, <a href="/articulo-recompensas">recompensas</a> de eventos y otros medios dentro del juego.
+3. **Nivel de Jugador**: Alcanzar un nivel de jugador determinado que permita acceder a <a href="/articulo-constelaciones-campeones">campeones</a> avanzados como Aurelion Sol.
+
+<br>
 
 ## Constelaciones de Aurelion Sol
 
-Las constelaciones son un sistema único en Path of Champions que permite a los jugadores desbloquear mejoras pasivas para sus campeones. Aurelion Sol tiene un conjunto de constelaciones que potencian su capacidad para dominar el campo de batalla:
+Las constelaciones son un sistema único en Path of Champions que permite a los jugadores desbloquear mejoras pasivas para sus <a href="/articulo-constelaciones-campeones">campeones</a>. Aurelion Sol tiene un conjunto de constelaciones que potencian su capacidad para dominar el campo de batalla:
 
 ### 1. Energía Cósmica
 
@@ -48,6 +53,8 @@ Las constelaciones son un sistema único en Path of Champions que permite a los 
 
 **Impacto:** Mejora la capacidad de Aurelion Sol para eliminar unidades enemigas y controlar el campo de batalla con sus habilidades cósmicas.
 
+<br>
+
 ## Baraja de Aurelion Sol
 
 La baraja inicial de Aurelion Sol en Path of Champions está diseñada para maximizar su control del campo de batalla y su capacidad para invocar unidades poderosas. A continuación, se presenta una visión general de las cartas clave en su baraja:
@@ -72,9 +79,11 @@ La baraja inicial de Aurelion Sol en Path of Champions está diseñada para maxi
    - **Descripción:** Un hechizo que invoca unidades aleatorias con una bonificación de ataque y salud.
    - **Efecto:** Llena el campo de batalla con unidades poderosas, abrumando al oponente.
 
+<br>
+
 ## Mejoras de Nivel de Aurelion Sol
 
-A medida que los jugadores progresan en Path of Champions, pueden mejorar a Aurelion Sol para desbloquear nuevas habilidades y aumentar su poder. Las mejoras de nivel incluyen:
+A medida que los jugadores progresan en Path of Champions, pueden mejorar a Aurelion Sol para desbloquear nuevas habilidades y aumentar su <a href="/articulo-poderes">poder</a>. Las mejoras de nivel incluyen:
 
 ### Nivel 2: Poder Cósmico
 
@@ -99,6 +108,8 @@ A medida que los jugadores progresan en Path of Champions, pueden mejorar a Aure
 **Descripción:** Aurelion Sol obtiene la habilidad de invocar constelaciones adicionales durante la partida.
 
 **Impacto:** Maximiza el impacto de las constelaciones, proporcionando mejoras significativas y sostenidas a lo largo de la partida.
+
+<br>
 
 ## Estrategias y Sinergias
 

@@ -10,19 +10,24 @@ date: "2024-04-06"
 </br>
 <div class="clearfix">
   <img src="/img/annie-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de Annie">
+
 Annie, la Niña Oscura, es una campeona con un poder inmenso y una personalidad explosiva en el universo de Legends of Runeterra. En el modo Path of Champions, Annie trae su dominio del fuego y su temible oso, Tibbers, al campo de batalla. Este artículo explorará cómo desbloquear a Annie, sus constelaciones, su baraja, sus mejoras de nivel y estrategias efectivas para utilizarla en el juego.
+
+<br>
 
 ## Cómo Desbloquear a Annie
 
 Para desbloquear a Annie en Path of Champions, los jugadores deben completar ciertos requisitos:
 
-1. **Progreso en Aventuras**: Completar misiones y desafíos específicos que narran la historia de Annie.
-2. **Recolección de Fragmentos**: Obtener suficientes fragmentos de Annie a través de cofres, eventos y recompensas dentro del juego.
-3. **Nivel de Jugador**: Alcanzar el nivel necesario para acceder a campeones avanzados como Annie.
+1. **Progreso en Aventuras**: Completar <a href="/articulo-misiones">misiones</a> y desafíos específicos que narran la historia de Annie.
+2. **Recolección de Fragmentos**: Obtener suficientes fragmentos de Annie a través de cofres, eventos y <a href="/articulo-recompensas">recompensas</a> dentro del juego.
+3. **Nivel de Jugador**: Alcanzar el nivel necesario para acceder a <a href="/articulo-constelaciones-campeones">campeones</a> avanzados como Annie.
+
+<br>
 
 ## Constelaciones de Annie
 
-Las constelaciones en Path of Champions son mejoras pasivas que otorgan beneficios únicos a los campeones. Annie tiene constelaciones que potencian su capacidad de infligir daño con hechizos y mantener la presión sobre el oponente:
+Las constelaciones en Path of Champions son mejoras pasivas que otorgan beneficios únicos a los <a href="/articulo-constelaciones-campeones">campeones</a>. Annie tiene constelaciones que potencian su capacidad de infligir daño con hechizos y mantener la presión sobre el oponente:
 
 ### 1. Fuego Interior
 
@@ -48,6 +53,8 @@ Las constelaciones en Path of Champions son mejoras pasivas que otorgan benefici
 
 **Impacto:** Mejora la capacidad de Annie para eliminar unidades enemigas y controlar el campo de batalla con sus habilidades de fuego.
 
+<br>
+
 ## Baraja de Annie
 
 La baraja inicial de Annie en Path of Champions está diseñada para maximizar su capacidad de infligir daño con hechizos y mantener una presión constante sobre el oponente. A continuación, se presenta una visión general de las cartas clave en su baraja:
@@ -72,9 +79,11 @@ La baraja inicial de Annie en Path of Champions está diseñada para maximizar s
    - **Descripción:** Un hechizo que inflige daño a múltiples unidades enemigas.
    - **Efecto:** Afecta a varias unidades enemigas a la vez, debilitando el tablero enemigo y preparando el camino para un ataque devastador.
 
+<br>
+
 ## Mejoras de Nivel de Annie
 
-A medida que los jugadores progresan, pueden mejorar a Annie para desbloquear nuevas habilidades y aumentar su poder. Las mejoras de nivel incluyen:
+A medida que los jugadores progresan, pueden mejorar a Annie para desbloquear nuevas habilidades y aumentar su <a href="/articulo-poderes">poder</a>. Las mejoras de nivel incluyen:
 
 ### Nivel 2: Piroquinesis
 
@@ -99,6 +108,8 @@ A medida que los jugadores progresan, pueden mejorar a Annie para desbloquear nu
 **Descripción:** Annie obtiene la habilidad de invocar constelaciones adicionales durante la partida.
 
 **Impacto:** Maximiza el impacto de las constelaciones, proporcionando mejoras significativas y sostenidas a lo largo de la partida.
+
+<br>
 
 ## Estrategias y Sinergias
 

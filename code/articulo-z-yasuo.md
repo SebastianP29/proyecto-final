@@ -10,7 +10,10 @@ date: "2024-04-06"
 </br>
 <div class="clearfix">
   <img src="/img/yasuo-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de Yasuo">
+
 Yasuo es un campeón icónico en el universo de Runeterra, conocido por su estilo de juego ágil y devastador. En el modo Path of Champions de Legends of Runeterra, Yasuo se destaca como un campeón versátil y poderoso, capaz de controlar el campo de batalla con sus habilidades de desplazamiento y control. Este artículo explorará las constelaciones de Yasuo, su baraja inicial, las mejoras de nivel disponibles y las estrategias óptimas para maximizar su potencial.
+
+<br>
 
 ## Constelaciones de Yasuo
 
@@ -27,6 +30,8 @@ En Path of Champions, las constelaciones son mejoras que aumentan las capacidade
 3. **Dominio del Viento**
    - **Efecto**: Al lanzar una habilidad de desplazamiento, Yasuo inflige 1 de daño a todas las unidades enemigas.
    - **Beneficio**: Añade una dimensión ofensiva a sus habilidades de desplazamiento, permitiendo un control más efectivo del tablero.
+
+<br>
 
 ## Baraja Inicial de Yasuo
 
@@ -47,6 +52,8 @@ La baraja inicial de Yasuo está diseñada para aprovechar al máximo sus habili
 - **Hoja en el Viento (x3)**
   - Hechizo de daño directo que también activa desplazamientos, potenciando el efecto de las constelaciones.
 
+<br>
+
 ## Mejoras de Nivel
 
 A medida que avanzas en Path of Champions, Yasuo puede obtener mejoras de nivel que potencian sus habilidades y estadísticas. Estas son algunas de las mejoras clave:
@@ -62,6 +69,8 @@ A medida que avanzas en Path of Champions, Yasuo puede obtener mejoras de nivel 
 3. **Nivel 10: Espíritu del Dragón**
    - **Efecto**: Yasuo obtiene una habilidad pasiva que le permite ganar vida al infligir daño.
    - **Beneficio**: Proporciona una fuente de curación continua, aumentando su longevidad en partidas prolongadas.
+
+<br>
 
 ## Estrategia
 

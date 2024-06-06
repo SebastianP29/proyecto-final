@@ -10,19 +10,24 @@ date: "2024-04-06"
 </br>
 <div class="clearfix">
   <img src="/img/jhin-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de Jhin">
+
 Jhin, el Virtuoso, es un campeón singular en el universo de Legends of Runeterra. Con su obsesión por la perfección y el arte del asesinato, Jhin ofrece una experiencia de juego única en el modo Path of Champions. Este artículo explorará cómo desbloquear a Jhin, sus constelaciones, su baraja, sus mejoras de nivel y estrategias efectivas para utilizarlo en el juego.
+
+<br>
 
 ## Cómo Desbloquear a Jhin
 
 Para desbloquear a Jhin en Path of Champions, los jugadores deben completar ciertos requisitos:
 
-1. **Progreso en Aventuras**: Completar misiones y desafíos específicos que narran la historia de Jhin.
-2. **Recolección de Fragmentos**: Obtener suficientes fragmentos de Jhin a través de cofres, eventos y recompensas dentro del juego.
-3. **Nivel de Jugador**: Alcanzar el nivel necesario para acceder a campeones avanzados como Jhin.
+1. **Progreso en Aventuras**: Completar <a href="/articulo-misiones">misiones</a> y desafíos específicos que narran la historia de Jhin.
+2. **Recolección de Fragmentos**: Obtener suficientes fragmentos de Jhin a través de cofres, eventos y <a href="/articulo-recompensas">recompensas</a> dentro del juego.
+3. **Nivel de Jugador**: Alcanzar el nivel necesario para acceder a <a href="/articulo-constelaciones-campeones">campeones</a> avanzados como Jhin.
+
+<br>
 
 ## Constelaciones de Jhin
 
-Las constelaciones en Path of Champions son mejoras pasivas que otorgan beneficios únicos a los campeones. Jhin tiene constelaciones que potencian su capacidad de infligir daño preciso y mortal:
+Las constelaciones en Path of Champions son mejoras pasivas que otorgan beneficios únicos a los <a href="/articulo-constelaciones-campeones">campeones</a>. Jhin tiene constelaciones que potencian su capacidad de infligir daño preciso y mortal:
 
 ### 1. Perfección Mortal
 
@@ -48,6 +53,8 @@ Las constelaciones en Path of Champions son mejoras pasivas que otorgan benefici
 
 **Impacto:** Mejora la capacidad de Jhin para eliminar unidades enemigas y controlar el campo de batalla con sus habilidades precisas.
 
+<br>
+
 ## Baraja de Jhin
 
 La baraja inicial de Jhin en Path of Champions está diseñada para maximizar su capacidad de infligir daño preciso y mantener una presión constante sobre el oponente. A continuación, se presenta una visión general de las cartas clave en su baraja:
@@ -72,9 +79,11 @@ La baraja inicial de Jhin en Path of Champions está diseñada para maximizar su
    - **Descripción:** Un hechizo que invoca unidades adicionales con bonificaciones.
    - **Efecto:** Llena el campo de batalla con unidades, creando una presión constante sobre el oponente.
 
+<br>
+
 ## Mejoras de Nivel de Jhin
 
-A medida que los jugadores progresan en Path of Champions, pueden mejorar a Jhin para desbloquear nuevas habilidades y aumentar su poder. Las mejoras de nivel incluyen:
+A medida que los jugadores progresan en Path of Champions, pueden mejorar a Jhin para desbloquear nuevas habilidades y aumentar su <a href="/articulo-poderes">poder</a>. Las mejoras de nivel incluyen:
 
 ### Nivel 2: Ritmo Mortal
 
@@ -99,6 +108,8 @@ A medida que los jugadores progresan en Path of Champions, pueden mejorar a Jhin
 **Descripción:** Jhin obtiene la habilidad de invocar constelaciones adicionales durante la partida.
 
 **Impacto:** Maximiza el impacto de las constelaciones, proporcionando mejoras significativas y sostenidas a lo largo de la partida.
+
+<br>
 
 ## Estrategias y Sinergias
 

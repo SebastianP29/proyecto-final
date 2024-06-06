@@ -10,19 +10,24 @@ date: "2024-04-06"
 </br>
 <div class="clearfix">
   <img src="/img/volibear-1.webp" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Póster de Volibear">
+
 Volibear, el Trueno Indomable, es un campeón feroz y poderoso en el universo de Legends of Runeterra. En el modo Path of Champions, Volibear trae su fuerza y furia elemental al campo de batalla, ofreciendo una experiencia de juego llena de poder y dominación. Este artículo explorará cómo desbloquear a Volibear, sus constelaciones, su baraja, sus mejoras de nivel y estrategias efectivas para utilizarlo en el juego.
+
+<br>
 
 ## Cómo Desbloquear a Volibear
 
 Para desbloquear a Volibear en Path of Champions, los jugadores deben completar ciertos requisitos:
 
-1. **Progreso en Aventuras**: Completar misiones y desafíos específicos que narran la historia de Volibear.
-2. **Recolección de Fragmentos**: Obtener suficientes fragmentos de Volibear a través de cofres, eventos y recompensas dentro del juego.
-3. **Nivel de Jugador**: Alcanzar el nivel necesario para acceder a campeones avanzados como Volibear.
+1. **Progreso en Aventuras**: Completar <a href="/articulo-misiones">misiones</a> y desafíos específicos que narran la historia de Volibear.
+2. **Recolección de Fragmentos**: Obtener suficientes fragmentos de Volibear a través de cofres, eventos y <a href="/articulo-recompensas">recompensas</a> dentro del juego.
+3. **Nivel de Jugador**: Alcanzar el nivel necesario para acceder a <a href="/articulo-constelaciones-campeones">campeones</a> avanzados como Volibear.
+
+<br>
 
 ## Constelaciones de Volibear
 
-Las constelaciones en Path of Champions son mejoras pasivas que otorgan beneficios únicos a los campeones. Volibear tiene constelaciones que potencian su capacidad de infligir daño y dominar el campo de batalla:
+Las constelaciones en Path of Champions son mejoras pasivas que otorgan beneficios únicos a los <a href="/articulo-constelaciones-campeones">campeones</a>. Volibear tiene constelaciones que potencian su capacidad de infligir daño y dominar el campo de batalla:
 
 ### 1. Furia del Trueno
 
@@ -48,6 +53,8 @@ Las constelaciones en Path of Champions son mejoras pasivas que otorgan benefici
 
 **Impacto:** Mejora la capacidad de Volibear para eliminar unidades enemigas y controlar el campo de batalla con sus habilidades de rayo.
 
+<br>
+
 ## Baraja de Volibear
 
 La baraja inicial de Volibear en Path of Champions está diseñada para maximizar su capacidad de infligir daño y mantener una presión constante sobre el oponente. A continuación, se presenta una visión general de las cartas clave en su baraja:
@@ -72,9 +79,11 @@ La baraja inicial de Volibear en Path of Champions está diseñada para maximiza
    - **Descripción:** Un hechizo que invoca unidades adicionales con bonificaciones.
    - **Efecto:** Llena el campo de batalla con unidades, creando una presión constante sobre el oponente.
 
+<br>
+
 ## Mejoras de Nivel de Volibear
 
-A medida que los jugadores progresan en Path of Champions, pueden mejorar a Volibear para desbloquear nuevas habilidades y aumentar su poder. Las mejoras de nivel incluyen:
+A medida que los jugadores progresan en Path of Champions, pueden mejorar a Volibear para desbloquear nuevas habilidades y aumentar su <a href="/articulo-poderes">poder</a>. Las mejoras de nivel incluyen:
 
 ### Nivel 2: Furia Elemental
 
@@ -99,6 +108,8 @@ A medida que los jugadores progresan en Path of Champions, pueden mejorar a Voli
 **Descripción:** Volibear obtiene la habilidad de invocar constelaciones adicionales durante la partida.
 
 **Impacto:** Maximiza el impacto de las constelaciones, proporcionando mejoras significativas y sostenidas a lo largo de la partida.
+
+<br>
 
 ## Estrategias y Sinergias
 
