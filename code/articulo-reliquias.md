@@ -1,13 +1,13 @@
 ---
 layout: layout-post.njk
 title: Reliquias
-description:
-tags:
+description: Todo acerca de las reliquias, los tipos de reliquias, su utilidad, y estrategias.
+tags: ["articulo", "juego"]
 date: "2024-04-06"
 ---
-# Reliquias en Path of Champions
+# <p style="text-align: center;">**{{title}}**</p>
 
-## Introducción
+</br>
 
 Las reliquias son artefactos poderosos en Path of Champions, un modo de juego en Legends of Runeterra, que otorgan bonificaciones y habilidades especiales a los campeones. Estas reliquias pueden cambiar el curso de una partida, proporcionando ventajas significativas y mejorando las habilidades de los campeones. En este artículo, exploraremos las diferentes reliquias disponibles en el juego, sus efectos y rareza, y cómo los jugadores pueden obtenerlas.
 

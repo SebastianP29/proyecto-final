@@ -1,12 +1,13 @@
 ---
 layout: layout-post.njk
 title: Annie
-description:
-tags:
+description: Todo acerca del campeón Annie en Path of Champions, desde cómo desbloquearla hasta sus habilidades, baraja, y estrategias.
+tags: ["campeon", "articulo"]
 date: "2024-04-06"
 ---
-# Annie en Path of Champions de Legends of Runeterra
+# <p style="text-align: center;">**{{title}}**</p>
 
+</br>
 Annie, la Niña Oscura, es una campeona con un poder inmenso y una personalidad explosiva en el universo de Legends of Runeterra. En el modo Path of Champions, Annie trae su dominio del fuego y su temible oso, Tibbers, al campo de batalla. Este artículo explorará cómo desbloquear a Annie, sus constelaciones, su baraja, sus mejoras de nivel y estrategias efectivas para utilizarla en el juego.
 
 ## Cómo Desbloquear a Annie

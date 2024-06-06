@@ -1,10 +1,13 @@
 ---
 layout: layout-post.njk
 title: Palabras Clave
-description:
-tags:
+description: Todo acerca de las palabras clave del juego, qué significan, cómo afectan las partidas y su importancia.
+tags: ["articulo", "juego"]
 date: "2024-04-06"
 ---
+# <p style="text-align: center;">**{{title}}**</p>
+
+</br>
 # Palabras Clave en Legends of Runeterra: Efectos Positivos y Negativos
 
 En Legends of Runeterra, las palabras clave juegan un papel crucial en la mecánica del juego. Estas palabras clave otorgan habilidades y efectos especiales a las cartas, influenciando fuertemente el desarrollo de las partidas. Existen palabras clave positivas que benefician a las unidades y hechizos, y palabras clave negativas que pueden debilitar a las unidades. En este artículo, exploraremos todas las palabras clave positivas y negativas, detallando sus efectos y cómo impactan el juego.

@@ -1,11 +1,17 @@
 ---
 layout: layout-post.njk
 title: Actualizaciones
-description:
-tags:
+description: Todo acerca de las actualizaciones, el nuevo contenido y la frencuencia de éstas.
+tags:  ["articulo", "juego"]
 date: "2024-04-06"
 ---
-# Actualizaciones y Nuevo Contenido de Path of Champions en Legends of Runeterra
+
+# <p style="text-align: center;">**{{title}}**</p>
+
+</br>
+
+
+# Nuevo Contenido de Path of Champions en Legends of Runeterra
 
 Legends of Runeterra (LoR), el popular juego de cartas de Riot Games, ha capturado la atención de los jugadores con su rica narrativa y mecánicas innovadoras. Entre sus modos de juego, **Path of Champions** destaca por ofrecer una experiencia única de exploración y combate PvE (jugador contra entorno). Este modo se ha convertido en un favorito entre los jugadores, y Riot Games se ha comprometido a mantenerlo fresco y emocionante a través de actualizaciones periódicas y nuevo contenido.
 

@@ -1,12 +1,13 @@
 ---
 layout: layout-post.njk
 title: Yasuo
-description:
-tags: ["articulo", ""]
+description: Todo acerca del campeón Yasuo en Path of Champions, desde cómo desbloquearlo hasta sus habilidades, baraja, y estrategias.
+tags: ["campeon", "articulo"]
 date: "2024-04-06"
 ---
-# Yasuo en Path of Champions de Legends of Runeterra
+# <p style="text-align: center;">**{{title}}**</p>
 
+</br>
 Yasuo es un campeón icónico en el universo de Runeterra, conocido por su estilo de juego ágil y devastador. En el modo Path of Champions de Legends of Runeterra, Yasuo se destaca como un campeón versátil y poderoso, capaz de controlar el campo de batalla con sus habilidades de desplazamiento y control. Este artículo explorará las constelaciones de Yasuo, su baraja inicial, las mejoras de nivel disponibles y las estrategias óptimas para maximizar su potencial.
 
 ## Constelaciones de Yasuo

@@ -1,10 +1,13 @@
 ---
 layout: layout-post.njk
 title: Nivel de Leyenda
-description:
-tags:
+description: Todo acerca del nivel de leyenda, qué es, cómo progresarlo y por qué es importante.
+tags: ["articulo", "juego"]
 date: "2024-04-06"
 ---
+# <p style="text-align: center;">**{{title}}**</p>
+
+</br>
 El nivel de leyenda en Path of Champions es un sistema de progresión de cuenta que abarca todos los campeones y aventuras en Legends of Runeterra. Este sistema permite a los jugadores desbloquear contenido, obtener recompensas y mejorar su experiencia de juego a medida que avanzan. En este artículo, exploraremos qué es el nivel de leyenda, cómo se obtienen los puntos de leyenda y qué recompensas están disponibles a través de los 50 niveles del sistema.
 
 ## ¿Qué es el Nivel de Leyenda?

@@ -1,11 +1,13 @@
 ---
 layout: layout-post.njk
 title: Poderes
-description:
-tags:
+description: Todo acerca de los poderes que uno puede encontrar en las aventuras, su clasificación, y las estrategias al rededor de éstos.
+tags: ["articulo", "juego"]
 date: "2024-04-06"
 ---
-# Los Diferentes Poderes en Path of Champions de Legends of Runeterra
+# <p style="text-align: center;">**{{title}}**</p>
+
+</br>
 
 Path of Champions en Legends of Runeterra ofrece a los jugadores una experiencia PvE rica y variada, en la que pueden desbloquear y utilizar diferentes poderes a lo largo de sus aventuras. Estos poderes son cruciales para enfrentarse a los retos y enemigos del juego, y pueden provenir tanto de las aventuras regulares como de los modificadores de los retos mensuales. En este artículo, exploraremos los distintos tipos de poderes disponibles y proporcionaremos ejemplos específicos de los poderes asociados a campeones populares como Jinx, Aurelion Sol, Diana, Jhin, LeBlanc, Volibear y Yasuo.
 

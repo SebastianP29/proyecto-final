@@ -1,12 +1,13 @@
 ---
 layout: layout-post.njk
 title: Divisas
-description:
-tags:
+description: Todo acerca de las diversas divisas del juego y cómo conseguirlas.
+tags: ["articulo", "juego"]
 date: "2024-04-06"
 ---
-# Divisas en Path of Champions
+# <p style="text-align: center;">**{{title}}**</p>
 
+</br>
 Path of Champions en Legends of Runeterra introduce una variedad de divisas que los jugadores pueden utilizar para mejorar sus campeones, desbloquear nuevas habilidades y progresar en el juego. Estas divisas incluyen Fragmentos Salvajes, Fragmentos de Campeón, Cristales Estelares, Fragmentos de Nova, Cristales de Nova, Gemas, Polvo de Estrellas, Cofres, Vasijas Estelares y Vasijas de Gemas. En este artículo, exploraremos cada una de estas divisas, su propósito, y cómo los jugadores pueden obtenerlas.
 
 ## Fragmentos Salvajes

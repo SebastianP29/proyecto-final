@@ -1,12 +1,13 @@
 ---
 layout: layout-post.njk
 title: LeBlanc
-description:
-tags:
+description: Todo acerca del campeón LeBlanc en Path of Champions, desde cómo desbloquearla hasta sus habilidades, baraja, y estrategias.
+tags: ["campeon", "articulo"]
 date: "2024-04-06"
 ---
-# LeBlanc en Path of Champions de Legends of Runeterra
+# <p style="text-align: center;">**{{title}}**</p>
 
+</br>
 LeBlanc, la Maquiavélica, es una campeona enigmática y astuta en el universo de Legends of Runeterra. En el modo Path of Champions, LeBlanc trae su dominio de la ilusión y el engaño al campo de batalla, ofreciendo una experiencia de juego llena de estrategias complejas y tácticas engañosas. Este artículo explorará cómo desbloquear a LeBlanc, sus constelaciones, su baraja, sus mejoras de nivel y estrategias efectivas para utilizarla en el juego.
 
 ## Cómo Desbloquear a LeBlanc

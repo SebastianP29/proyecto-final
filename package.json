@@ -6,8 +6,8 @@
     "install": "npm install @11ty/eleventy --save-dev",
     "start": "npx @11ty/eleventy --serve --port=7777",
     "clean": "rm -rf docs",
-    "deploy": "",
-    "deploy-subdomain": ""
+    "deploy": "npx @11ty/eleventy --pathprefix=/",
+    "deploy-subdomain": "npx @11ty/eleventy --pathprefix=/proyecto-final/"
   },
   "keywords": [],
   "author": "Sebastián Padilla Pardo",

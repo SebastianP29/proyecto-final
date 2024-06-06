@@ -1,12 +1,13 @@
 ---
 layout: layout-post.njk
 title: Aurelion Sol
-description:
-tags:
+description: Todo acerca del campeón Aurelion Sol en Path of Champions, desde cómo desbloquearlo hasta sus habilidades, baraja, y estrategias.
+tags: ["campeon", "articulo"]
 date: "2024-04-06"
 ---
-# Aurelion Sol en Path of Champions de Legends of Runeterra
+# <p style="text-align: center;">**{{title}}**</p>
 
+</br>
 Aurelion Sol, el Forjador de Estrellas, es uno de los campeones más poderosos y majestuosos en el universo de Legends of Runeterra. En el modo Path of Champions, Aurelion Sol ofrece una experiencia única con su habilidad para manipular el cosmos y dominar el campo de batalla. Este artículo explorará en detalle cómo desbloquear a Aurelion Sol, sus constelaciones, su baraja, sus mejoras de nivel y su impacto en el juego.
 
 ## Cómo Desbloquear a Aurelion Sol

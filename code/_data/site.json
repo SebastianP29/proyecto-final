@@ -1,13 +1,13 @@
 {
-  "message": "Hola Mundo Eleventy.",
+  "message": "¡Hola Prof. desde <i>11ty</i>!",
   "linksDoc": [
     {
       "text": "Documentación de <i>11ty</i>",
       "url": "https://www.11ty.dev/docs/"
     },
     {
-      "text": "Mascotas de <i>11ty</i>",
-      "url": "https://www.11ty.dev/mascot/"
+      "text": "Documentación de de <i>Bootstrap</i>",
+      "url": "https://getbootstrap.com/"
     },
     {
       "text": "Documentación de <i>NunJucks</i>",
@@ -15,7 +15,7 @@
     },
     {
       "text": "Curso de <i>11ty</i> de @jonmircha",
-      "url": "https://youtube.com/jonmircha/"
+      "url": "https://www.youtube.com/watch?v=yCF9l4_E5rI"
     }
   ]
 }

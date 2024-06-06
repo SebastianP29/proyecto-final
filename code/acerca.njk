@@ -6,7 +6,7 @@ description: Encuentra información acerca del creador del proyecto, su propósi
 
 <h1>{{ title }}</h1>
 
-<p>
+<p class="container">
   <h3 class="text-justify">
     Esta <i>wiki</i> fue creada por Sebastián Padilla Pardo como parte de un proyecto final de la clase de Programación I del profesor Jonathan MirCha.
     <br>
@@ -26,7 +26,7 @@ description: Encuentra información acerca del creador del proyecto, su propósi
       <li><a href="/articulo-poderes">Poderes</a></li>
       <li><a href="/articulo-recompensas">Recompensas</a></li>
       <li><a href="/articulo-reliquias">Reliquias</a></li>
-      <li><a href="/articulo-semanales-mensuales">Semanales y Mensuales</a></li>
+      <li><a href="/articulo-semanales-mensuales">Aventuras Semanales y Mensuales</a></li>
       <li><a href="/articulo-campeones">Campeones:</a>
         <ol style="list">
           <li><a href="/articulo-z-annie">Annie</a></li>
@@ -43,5 +43,18 @@ description: Encuentra información acerca del creador del proyecto, su propósi
     Así dando un total de 20 artículos que explorar a través de esta página o el buscador.
   </h3>
 </p>
+<hr>
+<h3>
+  <p>
+    Todas las herramientas utilizadas para la creación de ésta página:
+  </p>
+  <ul>
+    {% for link in site.linksDoc %}
+    <li>
+      <a href="{{ link.url }}" target="_blank">{{ link.text | safe }}</a>
+    </li>
+    {% endfor %}
+  </ul>
 
-<img src="/img/poc-1.webp" class="img-fluid" alt="Póster promocional de Path of Champions">
+  <img src="/img/poc-1.webp" class="img-fluid w-100" alt="Póster promocional de Path of Champions">
+</h3>

@@ -1,12 +1,13 @@
 ---
 layout: layout-post.njk
 title: Jhin
-description:
-tags:
+description: Todo acerca del campeón Jhin en Path of Champions, desde cómo desbloquearlo hasta sus habilidades, baraja, y estrategias.
+tags: ["campeon", "articulo"]
 date: "2024-04-06"
 ---
-# Jhin en Path of Champions de Legends of Runeterra
+# <p style="text-align: center;">**{{title}}**</p>
 
+</br>
 Jhin, el Virtuoso, es un campeón singular en el universo de Legends of Runeterra. Con su obsesión por la perfección y el arte del asesinato, Jhin ofrece una experiencia de juego única en el modo Path of Champions. Este artículo explorará cómo desbloquear a Jhin, sus constelaciones, su baraja, sus mejoras de nivel y estrategias efectivas para utilizarlo en el juego.
 
 ## Cómo Desbloquear a Jhin

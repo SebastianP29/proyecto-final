@@ -1,12 +1,13 @@
 ---
 layout: layout-post.njk
 title: Volibear
-description:
-tags:
+description: Todo acerca del campeón Volibear en Path of Champions, desde cómo desbloquearlo hasta sus habilidades, baraja, y estrategias.
+tags: ["campeon", "articulo"]
 date: "2024-04-06"
 ---
-# Volibear en Path of Champions de Legends of Runeterra
+# <p style="text-align: center;">**{{title}}**</p>
 
+</br>
 Volibear, el Trueno Indomable, es un campeón feroz y poderoso en el universo de Legends of Runeterra. En el modo Path of Champions, Volibear trae su fuerza y furia elemental al campo de batalla, ofreciendo una experiencia de juego llena de poder y dominación. Este artículo explorará cómo desbloquear a Volibear, sus constelaciones, su baraja, sus mejoras de nivel y estrategias efectivas para utilizarlo en el juego.
 
 ## Cómo Desbloquear a Volibear

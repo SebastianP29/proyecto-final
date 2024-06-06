@@ -1,0 +1,104 @@
+---
+layout: layout-page.njk
+title: Listado de Artículos
+description: Listado de artículos que se pueden encontrar en esta wiki.
+---
+
+<h1>{{ title }}</h1>
+
+<p>
+    <h3><strong>Juego</strong></h3>
+    <div class="container">
+      <div class="text ">
+        <ul>
+          {% for article in collections.juego %}
+            <li>
+              <a href="{{article.url}}">
+                {{ article.data.title }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div id="carouselGameElements" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="/img/actualizaciones-1.webp" class="d-block w-100" data-bs-interval="5000" alt="Póster de actualizaciones">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/aventuras-1.jpg" class="d-block w-100" data-bs-interval="5000" alt="Póster de aventuras">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/champions-1.jpg" class="d-block w-100" data-bs-interval="5000" alt="Póster de campeones y constelaciones">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/divisas-1.jpg" class="d-block w-100" data-bs-interval="5000" alt="Póster de divisas">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/misiones-1.jpg" class="d-block w-100" data-bs-interval="5000" alt="Póster de misiones">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/nivel-leyenda-1.avif" class="d-block w-100" data-bs-interval="5000" alt="Póster de nivel de leyenda">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/palabras-clave-1.webp" class="d-block w-100" data-bs-interval="5000" alt="Póster de palabras clave">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/poderes-1.jpg" class="d-block w-100" data-bs-interval="5000" alt="Póster de poderes">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/recompensas-1.jpg" class="d-block w-100" data-bs-interval="5000" alt="Póster de recompensas">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/reliquias-1.webp" class="d-block w-100" data-bs-interval="5000" alt="Póster de reliquias">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/semanales-mensuales-1.webp" class="d-block w-100" data-bs-interval="5000" alt="Póster de retos semanales y mensuales">
+          </div>
+        </div>
+      </div>
+    </div>
+    <br>
+    <h3><strong>Campeones</strong></h3>
+    <div class="container">
+      <div class="text">
+        <ul>
+          {% for article in collections.campeon %}
+            <li>
+              <a href="{{article.url}}">
+                {{ article.data.title }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div id="carouselChampions" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="/img/annie-1.webp" class="d-block w-100" data-bs-interval="4000" alt="Póster de Annie">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/aurelion-1.webp" class="d-block w-100" data-bs-interval="4000" alt="Póster de Aurelion Sol">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/diana-1.webp" class="d-block w-100" data-bs-interval="4000" alt="Póster de Diana">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/jhin-1.webp" class="d-block w-100" data-bs-interval="4000" alt="Póster de Jhin">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/jinx-1.webp" class="d-block w-100" data-bs-interval="4000" alt="Póster de Jinx">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/leblanc-1.webp" class="d-block w-100" data-bs-interval="4000" alt="Póster de LeBlanc">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/volibear-1.webp" class="d-block w-100" data-bs-interval="4000" alt="Póster de Volibear">
+          </div>
+          <div class="carousel-item">
+            <img src="/img/yasuo-1.webp" class="d-block w-100" data-bs-interval="4000" alt="Póster de Yasuo">
+          </div>
+        </div>
+      </div>
+    </div>
+</p>

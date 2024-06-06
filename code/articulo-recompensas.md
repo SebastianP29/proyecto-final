@@ -1,12 +1,13 @@
 ---
 layout: layout-post.njk
 title: Recompensas
-description:
-tags:
+description: Todo acerca de las posibles recompensas, cómo funcionan los cofres, la cantidad de divisas que dan, y cómo conseguirlas.
+tags: ["articulo", "juego"]
 date: "2024-04-06"
 ---
-# Recompensas en Path of Champions
+# <p style="text-align: center;">**{{title}}**</p>
 
+</br>
 Las recompensas en Path of Champions, el modo de juego de Legends of Runeterra, son una parte esencial de la progresión y motivación del jugador. Desde cofres que contienen una variedad de objetos valiosos hasta misiones diarias y semanales que otorgan experiencia y reliquias, las recompensas juegan un papel crucial en la mejora y personalización de los campeones. En este artículo, exploraremos en detalle las diferentes recompensas disponibles, cómo obtenerlas y su importancia en el juego.
 
 ## Cofres y su Contenido

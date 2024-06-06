@@ -1,12 +1,13 @@
 ---
 layout: layout-post.njk
 title: Aventuras
-description:
-tags: 
+description: Todo acerca de las aventuras del juego, cómo desbloquearlas, y cómo funcionan.
+tags: ["articulo", "juego"]
 date: "2024-04-06"
 ---
- Aventuras en Path of Champions
+# <p style="text-align: center;">**{{title}}**</p>
 
+</br>
 Path of Champions en Legends of Runeterra ofrece una variedad de aventuras emocionantes que permiten a los jugadores sumergirse en el rico universo de Runeterra. Cada aventura presenta una serie de desafíos, enemigos y recompensas únicas, proporcionando una experiencia de juego dinámica y envolvente. En este artículo, exploraremos las diversas aventuras disponibles, cómo funcionan los nodos y los elementos que los jugadores pueden encontrar a lo largo de su viaje, así como detalles sobre los jefes, las vidas, el dinero y los rerolls.
 
 ## Aventuras Disponibles

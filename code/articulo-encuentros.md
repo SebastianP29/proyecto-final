@@ -1,10 +1,13 @@
 ---
 layout: layout-post.njk
 title: Encuentros
-description:
-tags:
+description: Todo acerca de las partidas dentro del juego, la estrategia y modificadores.
+tags: ["articulo", "juego"]
 date: "2024-04-06"
 ---
+# <p style="text-align: center;">**{{title}}**</p>
+
+</br>
 # Sistema de Pelea en Path of Champions
 
 El sistema de pelea en Path of Champions, el modo de juego de Legends of Runeterra, es una experiencia dinámica y estratégica que combina elementos de combate en tiempo real con la gestión de recursos y habilidades de cartas. Desde el momento en que entras a la partida hasta el último movimiento que decide el resultado, cada decisión cuenta. En este artículo, exploraremos en detalle cómo funciona el sistema de pelea, incluyendo el proceso de inicio, la mecánica de juego, el uso de mana, los modificadores y las condiciones de victoria.

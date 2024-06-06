@@ -1,10 +1,13 @@
 ---
 layout: layout-post.njk
-title: Campeones
-description:
-tags:
+title: Campeones y Constelaciones
+description: Todo acerca de los campeones de Path of Champions, las constelaciones y la progresión de niveles de campeones.
+tags: ["articulo", "juego"]
 date: "2024-04-06"
 ---
+# <p style="text-align: center;">**{{title}}**</p>
+
+</br>
 Path of Champions en Legends of Runeterra ha evolucionado significativamente con sus actualizaciones, introduciendo nuevos sistemas y mecánicas que enriquecen la experiencia de juego. En este artículo, exploraremos las constelaciones (anteriormente conocidas como poderes estelares), el sistema de niveles de campeón, la configuración del mazo inicial, y el sistema de reliquias, proporcionando una visión completa de cómo estos elementos se integran en el juego.
 
 ## Constelaciones

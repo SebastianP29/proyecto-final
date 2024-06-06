@@ -1,12 +1,13 @@
 ---
 layout: layout-post.njk
 title: Diana
-description:
-tags:
+description: Todo acerca del campeón Diana en Path of Champions, desde cómo desbloquearla hasta sus habilidades, baraja, y estrategias.
+tags: ["campeon", "articulo"]
 date: "2024-04-06"
 ---
-# Diana en Path of Champions de Legends of Runeterra
+# <p style="text-align: center;">**{{title}}**</p>
 
+</br>
 Diana, la Escornadora de la Luna, es una campeona con una conexión profunda con los poderes lunares, destacándose en combates rápidos y letales. En Path of Champions de Legends of Runeterra, Diana ofrece una experiencia de juego que se centra en ataques rápidos y sinérgicos, aprovechando su agilidad y ferocidad. Este artículo explorará cómo desbloquear a Diana, sus constelaciones, su baraja, sus mejoras de nivel y estrategias efectivas para utilizarla en el juego.
 
 ## Cómo Desbloquear a Diana
